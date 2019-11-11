@@ -1,5 +1,11 @@
-## Bart Sakwerda, recent projects 
-list of links to files, repositories and projects that I am involved with a
+# Bart Sakwerda, recent projects 
+list of links to files, repositories and projects that I am involved with
+
+## CURRENT PROJECTS 
+GARMIN PHILIPPINES PITCH https://docs.google.com/document/d/1jZNp56iLBEpU4TlCLJtWl8ZgPjfo2KuCupeQc3QM9Vg/edit
+2020-02 LUZON TRIPS HTTPS://FACEBOOK.COM/SOROY WITH HTTPS://FACEBOOK.COM/WIL.DAVIES.ADVENTURES 
+AUTOMATION OF CALLCENTERS IN PHILIPPINES 
+APP FOR TOURISM PLANNING IN THE PHILIPPINES 
 
 
 # PHILIPPINES TRAVEL COMPANY
