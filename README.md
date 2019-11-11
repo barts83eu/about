@@ -2,7 +2,7 @@
 list of links to files, repositories and projects that I am involved with a
 
 
-# Philippines Travel 
+# PHILIPPINES TRAVEL COMPANY
 ### 2019-11 Philippines Tourism 
 [source] (https://github.com/josephricafort/tourist-arrival-philippines)
 
@@ -53,13 +53,16 @@ https://www.kaggle.com/appops/whaleshark-identification
 
 # TIMELINE 
 2009 Paper "Context aware user interface"
+https://scholar.google.com/citations?user=pIp9mHgAAAAJ&hl=en
 
 
 # Support or Contact
 ```markdown
 email: bart.sakwerda@gmail.com
 ```
-https://linkedin.com/in/bartsakwerda
-HTTPS://TWITTER.COM/BARTSAKWERDA
-HTTPS://BEHANCE.NET/BARTS
-
+https://linkedin.com/in/bartsakwerda LINKS
+HTTPS://TWITTER.COM/BARTSAKWERDA LINKS 
+HTTPS://BEHANCE.NET/BARTS  SOME GRAPHICS 
+https://www.facebook.com/soroy2 ADVENTURES IN THE PHILIPPINES BLOG 
+## INSPIRATION 
+- Michal Kosinski  https://scholar.google.co.uk/citations?user=01-XV0YAAAAJ&hl=en
